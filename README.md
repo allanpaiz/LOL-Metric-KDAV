@@ -15,12 +15,12 @@ I learned a lot throughtout this process, and someday, I plan to revisit and ref
 
 ## Table of Contents
 
-1. [Intro](https://github.com/allan1371/LOL-Metric-KDAV/blob/main/README.md#Intro)
-2. [What the App Looked Like](https://github.com/allan1371/LOL-Metric-KDAV/blob/main/README.md#What-the-App-Looked-Like)
-3. [What the Code Looked Like](https://github.com/allan1371/LOL-Metric-KDAV/blob/main/README.md#What-the-Code-Looked-Like)
-4. [Data on Excel](https://github.com/allan1371/LOL-Metric-KDAV/blob/main/README.md#Data-on-Excel)
-5. [Snippets from Paper](https://github.com/allan1371/LOL-Metric-KDAV/blob/main/README.md#Snippets-from-Paper)
-6. [Conclusion](https://github.com/allan1371/LOL-Metric-KDAV/blob/main/README.md#Conclusion)
+1. [Intro](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#intro)
+2. [What the App Looked Like](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#what-the-app-looked-like)
+3. [What the Code Looked Like](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#what-the-code-looked-like)
+4. [Data on Excel](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#data-on-excel)
+5. [Snippets from Paper](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#data-on-excel)
+6. [Conclusion](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#conclusion)
 
 ## Intro
 
