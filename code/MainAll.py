@@ -3,6 +3,9 @@
 Created on Wed Sep 15 18:22:32 2021
 
 @author: allan
+
+This is what happens when you don't know how loops work.
+
 """
 
 import xlsxwriter
