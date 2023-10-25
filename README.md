@@ -17,10 +17,9 @@ I learned a lot throughtout this process, and someday, I plan to revisit and ref
 
 1. [Intro](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#intro)
 2. [What the App Looked Like](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#what-the-app-looked-like)
-3. [What the Code Looked Like](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#what-the-code-looked-like)
-4. [Data on Excel](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#data-on-excel)
-5. [Snippets from Paper](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#data-on-excel)
-6. [Conclusion](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#conclusion)
+3. [Data on Excel](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#data-on-excel)
+4. [Snippets from Paper](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#data-on-excel)
+5. [Conclusion](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/README.md#conclusion)
 
 ## Intro
 
@@ -30,11 +29,6 @@ I learned a lot throughtout this process, and someday, I plan to revisit and ref
 ![app1](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/images/img/app1.JPG)
 ![app2](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/images/img/app3.JPG)
 ![app3](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/images/img/app4.JPG)
-
-## What the Code Looked Like
-![code1](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/images/img/code1.JPG)
-![code2](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/images/img/code4.JPG)
-![code3](https://github.com/allanpaiz/LOL-Metric-KDAV/blob/main/images/img/code7.JPG)
 
 
 ## Data on Excel
